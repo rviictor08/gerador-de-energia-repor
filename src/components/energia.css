@@ -1,0 +1,34 @@
+body{
+    background-image: url("../components/img/799035.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+
+}
+
+
+.divisao{
+    display: flex;
+    margin-top: 150px;
+    margin-left: -55px;
+    flex-direction: column;
+    align-items: center;
+    height: 641px;
+}
+
+H1, h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+p{
+ font-family: 'Odibee Sans', cursive;
+ color: azure;
+ margin-left: 11px;
+}
+
+.casa-arvore{
+   margin-left: 100px;
+   margin-bottom: 9px;
+
+
+}
